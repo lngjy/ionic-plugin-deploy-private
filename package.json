@@ -1,9 +1,9 @@
 {
-  "name": "ionic-plugin-deploy",
+  "name": "ionic-plugin-deploy-private",
   "version": "0.3.0",
   "description": "Ionic Deploy Plugin",
   "cordova": {
-    "id": "ionic-plugin-deploy",
+    "id": "ionic-plugin-deploy-private",
     "platforms": [
       "android",
       "ios"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/driftyco/ionic-plugin-deploy.git"
+    "url": "git+https://github.com/lngjy/ionic-plugin-deploy-private.git"
   },
   "keywords": [
     "Ionic",
@@ -23,7 +23,7 @@
   "author": "Ionic",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/driftyco/ionic-plugin-deploy/issues"
+    "url": "https://github.com/lngjy/ionic-plugin-deploy-private/issues"
   },
-  "homepage": "https://github.com/driftyco/ionic-plugin-deploy#readme"
+  "homepage": "https://github.com/lngjy/ionic-plugin-deploy-private#readme"
 }
